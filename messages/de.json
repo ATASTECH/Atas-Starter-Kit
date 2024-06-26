@@ -1,0 +1,41 @@
+{
+  "Home": {
+    "hello": "HALLO"
+  },
+  "LanguageSwitcher": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "zh": "中文",
+    "ar": "العربية",
+    "hi": "हिन्दी",
+    "fr": "Français",
+    "ru": "Русский",
+    "pt": "Português",
+    "ja": "日本語",
+    "de": "Deutsch"
+  },
+  "Navbar": {
+    "title": "ATAS TECH",
+    "products": "Produkte",
+    "product1": {
+      "title": "ATAS TECH",
+      "description": "Bereiten Sie sich wie nie zuvor auf technische Interviews vor."
+    },
+    "product2": {
+      "title": "ATAS TECH",
+      "description": "Produktionsbereite Tailwind-CSS-Komponenten für Ihr nächstes Projekt"
+    },
+    "product3": {
+      "title": "ATAS TECH",
+      "description": "Nie wieder von Grund auf neu schreiben. Gehen Sie in Minuten von der Idee zum Blog."
+    },
+    "product4": {
+      "title": "ATAS TECH",
+      "description": "Reagieren Sie 10-mal schneller auf Regierungsanfragen mit KI"
+    },
+    "pricing": "Preisgestaltung",
+    "blog": "Blog",
+    "contact": "Kontakt"
+  }
+}

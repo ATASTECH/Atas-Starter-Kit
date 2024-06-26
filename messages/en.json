@@ -1,0 +1,41 @@
+{
+  "Home": {
+    "hello": "HELLO"
+  },
+  "LanguageSwitcher": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "zh": "中文",
+    "ar": "العربية",
+    "hi": "हिन्दी",
+    "fr": "Français",
+    "ru": "Русский",
+    "pt": "Português",
+    "ja": "日本語",
+    "de": "Deutsch"
+  },
+  "Navbar": {
+    "title": "ATAS TECH",
+    "products": "Products",
+    "product1": {
+      "title": "ATAS TECH",
+      "description": "Prepare for tech interviews like never before."
+    },
+    "product2": {
+      "title": "ATAS TECH",
+      "description": "Production ready Tailwind css components for your next project"
+    },
+    "product3": {
+      "title": "ATAS TECH",
+      "description": "Never write from scratch again. Go from idea to blog in minutes."
+    },
+    "product4": {
+      "title": "ATAS TECH",
+      "description": "Respond to government RFPs, RFIs and RFQs 10x faster using AI"
+    },
+    "pricing": "Pricing",
+    "blog": "Blog",
+    "contact": "Contact"
+  }
+}

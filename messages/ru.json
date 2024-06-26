@@ -1,0 +1,41 @@
+{
+  "Home": {
+    "hello": "ПРИВЕТ"
+  },
+  "LanguageSwitcher": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "zh": "中文",
+    "ar": "العربية",
+    "hi": "हिन्दी",
+    "fr": "Français",
+    "ru": "Русский",
+    "pt": "Português",
+    "ja": "日本語",
+    "de": "Deutsch"
+  },
+  "Navbar": {
+    "title": "ATAS TECH",
+    "products": "Продукты",
+    "product1": {
+      "title": "ATAS TECH",
+      "description": "Подготовьтесь к техническим интервью как никогда раньше."
+    },
+    "product2": {
+      "title": "ATAS TECH",
+      "description": "Компоненты CSS, готовые к производству, для вашего следующего проекта"
+    },
+    "product3": {
+      "title": "ATAS TECH",
+      "description": "Никогда не пишите с нуля снова. Перейдите от идеи к блогу за считанные минуты."
+    },
+    "product4": {
+      "title": "ATAS TECH",
+      "description": "Отвечайте на государственные RFP, RFI и RFQ в 10 раз быстрее с помощью ИИ"
+    },
+    "pricing": "Цены",
+    "blog": "Блог",
+    "contact": "Контакт"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "Home": {
+    "hello": "BONJOUR"
+  },
+  "LanguageSwitcher": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "zh": "中文",
+    "ar": "العربية",
+    "hi": "हिन्दी",
+    "fr": "Français",
+    "ru": "Русский",
+    "pt": "Português",
+    "ja": "日本語",
+    "de": "Deutsch"
+  },
+  "Navbar": {
+    "title": "ATAS TECH",
+    "products": "Produits",
+    "product1": {
+      "title": "ATAS TECH",
+      "description": "Préparez-vous aux entretiens techniques comme jamais auparavant."
+    },
+    "product2": {
+      "title": "ATAS TECH",
+      "description": "Composants CSS prêts pour la production pour votre prochain projet"
+    },
+    "product3": {
+      "title": "ATAS TECH",
+      "description": "Ne plus jamais écrire à partir de zéro. Passez de l'idée au blog en quelques minutes."
+    },
+    "product4": {
+      "title": "ATAS TECH",
+      "description": "Répondez 10 fois plus rapidement aux appels d'offres du gouvernement avec l'IA"
+    },
+    "pricing": "Tarification",
+    "blog": "Blog",
+    "contact": "Contact"
+  }
+}

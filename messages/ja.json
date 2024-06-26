@@ -1,0 +1,41 @@
+{
+  "Home": {
+    "hello": "こんにちは"
+  },
+  "LanguageSwitcher": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "zh": "中文",
+    "ar": "العربية",
+    "hi": "हिन्दी",
+    "fr": "Français",
+    "ru": "Русский",
+    "pt": "Português",
+    "ja": "日本語",
+    "de": "Deutsch"
+  },
+  "Navbar": {
+    "title": "ATAS TECH",
+    "products": "製品",
+    "product1": {
+      "title": "ATAS TECH",
+      "description": "これまでにない技術面接の準備。"
+    },
+    "product2": {
+      "title": "ATAS TECH",
+      "description": "次のプロジェクトのための本番対応の Tailwind CSS コンポーネント"
+    },
+    "product3": {
+      "title": "ATAS TECH",
+      "description": "もうゼロから書くことはありません。数分でアイデアからブログへ進みましょう。"
+    },
+    "product4": {
+      "title": "ATAS TECH",
+      "description": "AI を使用して政府の RFP、RFI、および RFQ に 10 倍速く対応する"
+    },
+    "pricing": "価格",
+    "blog": "ブログ",
+    "contact": "お問い合わせ"
+  }
+}

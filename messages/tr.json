@@ -1,0 +1,41 @@
+{
+  "Home": {
+    "hello": "MERHABA"
+  },
+  "LanguageSwitcher": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "zh": "中文",
+    "ar": "العربية",
+    "hi": "हिन्दी",
+    "fr": "Français",
+    "ru": "Русский",
+    "pt": "Português",
+    "ja": "日本語",
+    "de": "Deutsch"
+  },
+  "Navbar": {
+    "title": "ATAS TECH",
+    "products": "Ürünler",
+    "product1": {
+      "title": "ATAS TECH",
+      "description": "Teknik mülakatlara hazırlanmanın yeni yolu."
+    },
+    "product2": {
+      "title": "ATAS TECH",
+      "description": "Bir sonraki projeniz için hazır Tailwind css bileşenleri"
+    },
+    "product3": {
+      "title": "ATAS TECH",
+      "description": "Bir daha asla sıfırdan yazmayın. Fikirden bloga dakikalar içinde geçin."
+    },
+    "product4": {
+      "title": "ATAS TECH",
+      "description": "AI kullanarak hükümet RFP, RFI ve RFQ'larına 10 kat daha hızlı yanıt verin"
+    },
+    "pricing": "Fiyatlandırma",
+    "blog": "Blog",
+    "contact": "İletişim"
+  }
+}

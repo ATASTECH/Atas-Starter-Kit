@@ -1,0 +1,41 @@
+{
+  "Home": {
+    "hello": "你好"
+  },
+  "LanguageSwitcher": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "zh": "中文",
+    "ar": "العربية",
+    "hi": "हिन्दी",
+    "fr": "Français",
+    "ru": "Русский",
+    "pt": "Português",
+    "ja": "日本語",
+    "de": "Deutsch"
+  },
+  "Navbar": {
+    "title": "ATAS TECH",
+    "products": "产品",
+    "product1": {
+      "title": "ATAS TECH",
+      "description": "前所未有地准备技术面试。"
+    },
+    "product2": {
+      "title": "ATAS TECH",
+      "description": "为您的下一个项目准备好的生产级 Tailwind CSS 组件"
+    },
+    "product3": {
+      "title": "ATAS TECH",
+      "description": "不再从头开始写作。从想法到博客只需几分钟。"
+    },
+    "product4": {
+      "title": "ATAS TECH",
+      "description": "使用 AI 更快地响应政府 RFP、RFI 和 RFQ"
+    },
+    "pricing": "定价",
+    "blog": "博客",
+    "contact": "联系"
+  }
+}

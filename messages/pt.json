@@ -1,0 +1,41 @@
+{
+  "Home": {
+    "hello": "OLÁ"
+  },
+  "LanguageSwitcher": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "zh": "中文",
+    "ar": "العربية",
+    "hi": "हिन्दी",
+    "fr": "Français",
+    "ru": "Русский",
+    "pt": "Português",
+    "ja": "日本語",
+    "de": "Deutsch"
+  },
+  "Navbar": {
+    "title": "ATAS TECH",
+    "products": "Produtos",
+    "product1": {
+      "title": "ATAS TECH",
+      "description": "Prepare-se para entrevistas técnicas como nunca antes."
+    },
+    "product2": {
+      "title": "ATAS TECH",
+      "description": "Componentes CSS prontos para produção para o seu próximo projeto"
+    },
+    "product3": {
+      "title": "ATAS TECH",
+      "description": "Nunca escreva do zero novamente. Vá da ideia ao blog em minutos."
+    },
+    "product4": {
+      "title": "ATAS TECH",
+      "description": "Responda a RFPs, RFIs e RFQs governamentais 10 vezes mais rápido usando IA"
+    },
+    "pricing": "Preços",
+    "blog": "Blog",
+    "contact": "Contato"
+  }
+}

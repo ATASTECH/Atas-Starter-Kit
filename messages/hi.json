@@ -1,0 +1,41 @@
+{
+  "Home": {
+    "hello": "नमस्ते"
+  },
+  "LanguageSwitcher": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "zh": "中文",
+    "ar": "العربية",
+    "hi": "हिन्दी",
+    "fr": "Français",
+    "ru": "Русский",
+    "pt": "Português",
+    "ja": "日本語",
+    "de": "Deutsch"
+  },
+  "Navbar": {
+    "title": "ATAS TECH",
+    "products": "उत्पाद",
+    "product1": {
+      "title": "ATAS TECH",
+      "description": "तकनीकी साक्षात्कार के लिए पहले कभी न करें तैयारी।"
+    },
+    "product2": {
+      "title": "ATAS TECH",
+      "description": "आपके अगले प्रोजेक्ट के लिए उत्पादन तैयार टेलविंड सीएसएस घटक"
+    },
+    "product3": {
+      "title": "ATAS TECH",
+      "description": "फिर से शून्य से लिखें कभी नहीं। मिनटों में विचार से ब्लॉग तक जाएं।"
+    },
+    "product4": {
+      "title": "ATAS TECH",
+      "description": "सरकारी आरएफपी, आरएफआई और आरएफक्यू का उत्तर देने के लिए एआई का उपयोग करके 10 गुना तेजी से उत्तर दें"
+    },
+    "pricing": "मूल्य निर्धारण",
+    "blog": "ब्लॉग",
+    "contact": "संपर्क"
+  }
+}

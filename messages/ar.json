@@ -1,0 +1,41 @@
+{
+  "Home": {
+    "hello": "مرحبا"
+  },
+  "LanguageSwitcher": {
+    "en": "English",
+    "tr": "Türkçe",
+    "es": "Español",
+    "zh": "中文",
+    "ar": "العربية",
+    "hi": "हिन्दी",
+    "fr": "Français",
+    "ru": "Русский",
+    "pt": "Português",
+    "ja": "日本語",
+    "de": "Deutsch"
+  },
+  "Navbar": {
+    "title": "ATAS TECH",
+    "products": "المنتجات",
+    "product1": {
+      "title": "ATAS TECH",
+      "description": "استعد لمقابلات العمل التقنية كما لم تفعل من قبل."
+    },
+    "product2": {
+      "title": "ATAS TECH",
+      "description": "مكونات جاهزة لتيلويند CSS لمشروعك القادم"
+    },
+    "product3": {
+      "title": "ATAS TECH",
+      "description": "لا تكتب من الصفر مرة أخرى. انتقل من الفكرة إلى المدونة في دقائق."
+    },
+    "product4": {
+      "title": "ATAS TECH",
+      "description": "استجب لـ RFPs و RFIs و RFQs الحكومية أسرع 10 مرات باستخدام الذكاء الاصطناعي"
+    },
+    "pricing": "التسعير",
+    "blog": "مدونة",
+    "contact": "تواصل"
+  }
+}
