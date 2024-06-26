@@ -2,7 +2,7 @@
 # ATAS TECH 
 ### 🖱 One Click
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ATASTECH/Atas-next-intl-Starter-Kit.git)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ATASTECH/Atas-Starter-Kit.git)
 ## 🚀 Getting Started
 
 ### 📋 Installation
@@ -10,7 +10,7 @@
 ✨ Manually clone the repository:
 
 ```bash
-git clone https://github.com/ATASTECH/Atas-next-intl-Starter-Kit.git
+git clone https://github.com/ATASTECH/Atas-Starter-Kit.git
 cd Atas-next-intl-Starter-Kit
 npm install
 ```
