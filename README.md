@@ -1,18 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# ATAS TECH 
+### 🖱 One Click
 
-First, run the development server:
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ATASTECH/Atas-next-intl-Starter-Kit.git)
+## 🚀 Getting Started
+
+### 📋 Installation
+
+✨ Manually clone the repository:
+
+```bash
+git clone https://github.com/ATASTECH/Atas-next-intl-Starter-Kit.git
+cd Atas-next-intl-Starter-Kit
+npm install
+```
+🤩 First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
+
+### Setup
+
+Follow these steps to set up your project:
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -20,17 +30,40 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## ⭐ Features
 
-To learn more about Next.js, take a look at the following resources:
+### 🐭 Frameworks
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **[Next.js](https://nextjs.org/)** - The React Framework for the Web (with **App Router**)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### 🐮 Platforms
 
-## Deploy on Vercel
+- **[Vercel](https://vercel.com/)** – Deploy your Next.js app with ease
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 🐯 Enterprise Features
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **[i18n](https://nextjs.org/docs/app/building-your-application/routing/internationalization)** - Support for internationalization
+- **[Atas/ui](https://ui.atastech.com/)** – Re-usable components built using Shadcn UI, Tailwind CSS, Framer Motion
+
+### 🐒 UI
+
+- **[Atas/ui](https://ui.atastech.com/)** – Re-usable components built using Shadcn UI, Tailwind CSS, Framer Motion
+- **[Tailwind CSS](https://tailwindcss.com/)** – Utility-first CSS framework for rapid UI development
+- **[Shadcn/ui](https://ui.shadcn.com/)** – Re-usable components built using Radix UI and Tailwind CSS
+- **[Framer Motion](https://framer.com/motion)** – Motion library for React to animate components with ease
+- **[Lucide](https://lucide.dev/)** – Beautifully simple, pixel-perfect icons
+- **[next/font](https://nextjs.org/docs/basic-features/font-optimization)** – Optimize custom fonts and remove external network requests for improved performance
+
+### 🐴 Code Quality
+
+- **[TypeScript](https://www.typescriptlang.org/)** – Static type checker for end-to-end type safety
+- **[Prettier](https://prettier.io/)** – Opinionated code formatter for consistent code style
+- **[ESLint](https://eslint.org/)** – Pluggable linter for Next.js and TypeScript
+
+### 🐑 Performance
+
+- **[Vercel Analytics](https://vercel.com/analytics)** – Real-time performance metrics for your Next.js app
+
+## 📜 License
+
+This project is licensed under the MIT License. For more information, see the [LICENSE](./LICENSE) file.
