@@ -1,5 +1,5 @@
+import DockMenu from '@/components/atasui/dock-menu';
 import Hero from '@/components/atasui/hero';
-import LanguageSwitcher from '@/components/LanguageSwitcher';
 import { useTranslations } from 'next-intl';
 import Image from 'next/image';
 
@@ -11,6 +11,7 @@ export default function Home() {
       <div className="z-10 w-full max-w-5xl items-center justify-between lg:flex">
         <Hero />
       </div>
+      <DockMenu />
     </main>
   );
 }

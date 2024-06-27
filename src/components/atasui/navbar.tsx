@@ -1,6 +1,6 @@
 'use client';
 import React, { useState } from "react";
-import { HoveredLink, Menu, MenuItem, ProductItem } from "../atasui/navbar-menu";
+import { HoveredLink, Menu, MenuItem, ProductItem } from "../atasui/ui/navbar-menu";
 import { cn } from "@/lib/utils";
 import LanguageSwitcher from "../LanguageSwitcher";
 import Logo from "./logo";
@@ -31,7 +31,7 @@ function Navbar({ className }: { className?: string }) {
               <span className="relative text-xl text-center">{t('title')}</span>
             </HoveredLink>
           </div>
-          <div className="flex space-x-8">
+          <div className="hidden md:flex space-x-8">
             <MenuItem setActive={setActive} active={active} item={t('products')}>
               <div className="text-sm grid grid-cols-2 gap-10 p-4">
                 <ProductItem

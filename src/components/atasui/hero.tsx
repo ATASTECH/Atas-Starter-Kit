@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import AnimatedGradientText from './animated-gradient-text';
+import AnimatedGradientText from './ui/animated-gradient-text';
 import { cn } from '@/lib/utils';
 import { RiNextjsFill } from "react-icons/ri";
 import { useTranslations } from 'next-intl';
