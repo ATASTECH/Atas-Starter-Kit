@@ -1,7 +1,11 @@
 {
   "Home": {
-    "hello": "مرحبا"
+
   },
+    "Hero": {
+      "hello": "مرحبا",
+      "starter": "مجموعة أدوات بدء التشغيل لـ Next.js"
+    },
   "LanguageSwitcher": {
     "en": "English",
     "tr": "Türkçe",

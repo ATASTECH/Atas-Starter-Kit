@@ -1,6 +1,10 @@
 {
   "Home": {
-    "hello": "こんにちは"
+    
+  },
+  "Hero": {
+    "hello": "こんにちは",
+    "starter": "Next.js スターターキット"
   },
   "LanguageSwitcher": {
     "en": "English",

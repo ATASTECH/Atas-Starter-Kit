@@ -1,6 +1,10 @@
 {
   "Home": {
-    "hello": "ПРИВЕТ"
+   
+  },
+  "Hero": {
+    "hello": "ПРИВЕТ",
+    "starter": "Набор для старта Next.js"
   },
   "LanguageSwitcher": {
     "en": "English",

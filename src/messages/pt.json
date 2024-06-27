@@ -1,6 +1,10 @@
 {
   "Home": {
-    "hello": "你好"
+    
+  },
+  "Hero": {
+    "hello": "OLÁ",
+    "starter": "Kit Inicial do Next.js"
   },
   "LanguageSwitcher": {
     "en": "English",
@@ -17,25 +21,25 @@
   },
   "Navbar": {
     "title": "ATAS TECH",
-    "products": "产品",
+    "products": "Produtos",
     "product1": {
       "title": "ATAS TECH",
-      "description": "前所未有地准备技术面试。"
+      "description": "Prepare-se para entrevistas técnicas como nunca antes."
     },
     "product2": {
       "title": "ATAS TECH",
-      "description": "为您的下一个项目准备好的生产级 Tailwind CSS 组件"
+      "description": "Componentes CSS prontos para produção para o seu próximo projeto"
     },
     "product3": {
       "title": "ATAS TECH",
-      "description": "不再从头开始写作。从想法到博客只需几分钟。"
+      "description": "Nunca escreva do zero novamente. Vá da ideia ao blog em minutos."
     },
     "product4": {
       "title": "ATAS TECH",
-      "description": "使用 AI 更快地响应政府 RFP、RFI 和 RFQ"
+      "description": "Responda a RFPs, RFIs e RFQs governamentais 10 vezes mais rápido usando IA"
     },
-    "pricing": "定价",
-    "blog": "博客",
-    "contact": "联系"
+    "pricing": "Preços",
+    "blog": "Blog",
+    "contact": "Contato"
   }
 }

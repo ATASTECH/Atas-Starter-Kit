@@ -1,6 +1,10 @@
 {
   "Home": {
-    "hello": "BONJOUR"
+  
+  },
+  "Hero": {
+    "hello": "HALLO",
+    "starter": "Next.js Starter Kit"
   },
   "LanguageSwitcher": {
     "en": "English",
@@ -17,25 +21,25 @@
   },
   "Navbar": {
     "title": "ATAS TECH",
-    "products": "Produits",
+    "products": "Produkte",
     "product1": {
       "title": "ATAS TECH",
-      "description": "Préparez-vous aux entretiens techniques comme jamais auparavant."
+      "description": "Bereiten Sie sich wie nie zuvor auf technische Interviews vor."
     },
     "product2": {
       "title": "ATAS TECH",
-      "description": "Composants CSS prêts pour la production pour votre prochain projet"
+      "description": "Produktionsbereite Tailwind-CSS-Komponenten für Ihr nächstes Projekt"
     },
     "product3": {
       "title": "ATAS TECH",
-      "description": "Ne plus jamais écrire à partir de zéro. Passez de l'idée au blog en quelques minutes."
+      "description": "Nie wieder von Grund auf neu schreiben. Gehen Sie in Minuten von der Idee zum Blog."
     },
     "product4": {
       "title": "ATAS TECH",
-      "description": "Répondez 10 fois plus rapidement aux appels d'offres du gouvernement avec l'IA"
+      "description": "Reagieren Sie 10-mal schneller auf Regierungsanfragen mit KI"
     },
-    "pricing": "Tarification",
+    "pricing": "Preisgestaltung",
     "blog": "Blog",
-    "contact": "Contact"
+    "contact": "Kontakt"
   }
 }

@@ -1,7 +1,12 @@
 {
   "Home": {
-    "hello": "HELLO"
+    
   },
+  "Hero": {
+    "hello": "MERHABA",
+    "starter": "Next.js Başlangıç Kiti"
+  },
+
   "LanguageSwitcher": {
     "en": "English",
     "tr": "Türkçe",
@@ -17,25 +22,25 @@
   },
   "Navbar": {
     "title": "ATAS TECH",
-    "products": "Products",
+    "products": "Ürünler",
     "product1": {
       "title": "ATAS TECH",
-      "description": "Prepare for tech interviews like never before."
+      "description": "Teknik mülakatlara hazırlanmanın yeni yolu."
     },
     "product2": {
       "title": "ATAS TECH",
-      "description": "Production ready Tailwind css components for your next project"
+      "description": "Bir sonraki projeniz için hazır Tailwind css bileşenleri"
     },
     "product3": {
       "title": "ATAS TECH",
-      "description": "Never write from scratch again. Go from idea to blog in minutes."
+      "description": "Bir daha asla sıfırdan yazmayın. Fikirden bloga dakikalar içinde geçin."
     },
     "product4": {
       "title": "ATAS TECH",
-      "description": "Respond to government RFPs, RFIs and RFQs 10x faster using AI"
+      "description": "AI kullanarak hükümet RFP, RFI ve RFQ'larına 10 kat daha hızlı yanıt verin"
     },
-    "pricing": "Pricing",
+    "pricing": "Fiyatlandırma",
     "blog": "Blog",
-    "contact": "Contact"
+    "contact": "İletişim"
   }
 }

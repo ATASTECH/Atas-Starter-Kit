@@ -1,6 +1,10 @@
 {
   "Home": {
-    "hello": "नमस्ते"
+    
+  },
+  "Hero": {
+    "hello": "नमस्ते",
+    "starter": "Next.js स्टार्टर किट"
   },
   "LanguageSwitcher": {
     "en": "English",
