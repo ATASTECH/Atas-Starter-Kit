@@ -1,6 +1,6 @@
 
 # ATAS TECH 
-![ATAS TECH](./public/images/og.png)
+![ATAS TECH](./images/og.png)
 ### 🖱 One Click
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ATASTECH/Atas-Starter-Kit.git)
