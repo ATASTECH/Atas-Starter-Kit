@@ -38,7 +38,6 @@ export default function LanguageSwitcher() {
     const searchParams = window.location.search;
     const hash = window.location.hash;
 
-    // URL'yi mevcut locale'den yeni locale'e değiştirin
     const newPath = pathname.replace(`/${currentLocale}`, `/${locale}`);
     router.push(`${newPath}${searchParams}${hash}`);
     setIsOpen(false);

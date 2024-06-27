@@ -17,7 +17,7 @@ export function NavbarMenu() {
 
 function Navbar({ className }: { className?: string }) {
   const [active, setActive] = useState<string | null>(null);
-  const t = useTranslations('Navbar'); // Dil desteği ekleme
+  const t = useTranslations('Navbar');
 
   return (
     <div className={cn("fixed top-10 inset-x-0 max-w-5xl mx-auto z-50", className)}>
