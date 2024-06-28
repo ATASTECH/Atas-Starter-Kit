@@ -48,7 +48,7 @@ const Hero: React.FC = () => {
             loop
             playsInline
             autoPlay
-            preload="metadata"
+            preload="auto"
           />
         </div>
       </div>
