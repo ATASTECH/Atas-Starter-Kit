@@ -1,5 +1,5 @@
 
-# ATAS TECH 
+# ATAS Starter Kit ✨
 ![ATAS TECH](./public/og.png)
 ### 🖱 One Click
 
@@ -8,7 +8,7 @@
 
 ### 📋 Installation
 
-✨ Manually clone the repository:
+🎯 Manually clone the repository:
 
 ```bash
 git clone https://github.com/ATASTECH/Atas-Starter-Kit.git
