@@ -12,7 +12,7 @@
 
 ```bash
 git clone https://github.com/ATASTECH/Atas-Starter-Kit.git
-cd Atas-next-intl-Starter-Kit
+cd Atas-Starter-Kit
 npm install
 ```
 🤩 First, run the development server:
