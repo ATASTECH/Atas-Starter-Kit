@@ -6,6 +6,7 @@ import { ThemeProvider } from 'next-themes';
 import '@/styles/globals.css';
 import { notFound } from 'next/navigation';
 import { NavbarMenu } from '@/components/atasui/navbar';
+import OGMeta from '@/components/OGMeta';
 
 export const metadata = {
   title: 'Atas Starter Kit',
@@ -38,6 +39,7 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale} dir={rtlLocales.includes(locale) ? 'rtl' : 'ltr'}>
+      <OGMeta />
       <body className={`${GeistSans.variable} ${GeistMono.variable} ${rtlLocales.includes(locale) ? 'rtl' : ''}`}>
         <ThemeProvider attribute="class">
           <NextIntlClientProvider locale={locale} messages={messages}>
